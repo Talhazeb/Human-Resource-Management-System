@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FA3E628E-986E-4937-A047-BA24F646D45B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Test</RootNamespace>
+    <AssemblyName>Test</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AnalogClockControl">
+      <HintPath>..\..\..\..\..\..\..\Ajax\AnalogClockControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.VS2010.10.0.40219.1\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attendance_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance_Details.Designer.cs">
+      <DependentUpon>Attendance_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\AttenBAL.cs" />
+    <Compile Include="BL\DepartmentBL.cs" />
+    <Compile Include="BL\JBHistoryBL.cs" />
+    <Compile Include="BL\LeaveBAL.cs" />
+    <Compile Include="BL\PaymentBAL.cs" />
+    <Compile Include="BL\PersonBAL.cs" />
+    <Compile Include="BL\UserBAL.cs" />
+    <Compile Include="BP\Atten_Details.cs" />
+    <Compile Include="BP\Department_Details.cs" />
+    <Compile Include="BP\JBHistory.cs" />
+    <Compile Include="BP\Leave.cs" />
+    <Compile Include="BP\Payment.cs" />
+    <Compile Include="BP\Person.cs" />
+    <Compile Include="BP\Product.cs" />
+    <Compile Include="BP\User_Details.cs" />
+    <Compile Include="Commoncls.cs" />
+    <Compile Include="DAL\AttenDAL.cs" />
+    <Compile Include="DAL\DepartmentDAL.cs" />
+    <Compile Include="DAL\JBHistoryDAL.cs" />
+    <Compile Include="DAL\LeaveDAL.cs" />
+    <Compile Include="DAL\PaymentDAL.cs" />
+    <Compile Include="DAL\PersonDAL.cs" />
+    <Compile Include="DAL\UsersDAL.cs" />
+    <Compile Include="DepartmentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentDetails.Designer.cs">
+      <DependentUpon>DepartmentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_Details.Designer.cs">
+      <DependentUpon>Employee_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_RPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emp_RPT.Designer.cs">
+      <DependentUpon>Emp_RPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRMS_DBDataSet.Designer.cs" />
+    <Compile Include="HRMS_DBDataSet1.cs">
+      <DependentUpon>HRMS_DBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HRMS_DBDataSet1.Designer.cs">
+      <DependentUpon>HRMS_DBDataSet1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobHistoryDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobHistoryDetails.Designer.cs">
+      <DependentUpon>JobHistoryDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Leave_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leave_Details.Designer.cs">
+      <DependentUpon>Leave_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment_Details.Designer.cs">
+      <DependentUpon>Payment_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pay_RPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay_RPT.Designer.cs">
+      <DependentUpon>Pay_RPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShortCutMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShortCutMenu.Designer.cs">
+      <DependentUpon>ShortCutMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\Header.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Header.Designer.cs">
+      <DependentUpon>Header.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Attendance_Details.resx">
+      <DependentUpon>Attendance_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentDetails.resx">
+      <DependentUpon>DepartmentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_Details.resx">
+      <DependentUpon>Employee_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_Rpt.rdlc" />
+    <EmbeddedResource Include="Emp_RPT.resx">
+      <DependentUpon>Emp_RPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobHistoryDetails.resx">
+      <DependentUpon>JobHistoryDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leave_Details.resx">
+      <DependentUpon>Leave_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_Details.resx">
+      <DependentUpon>Payment_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayRpt.rdlc" />
+    <EmbeddedResource Include="Pay_RPT.resx">
+      <DependentUpon>Pay_RPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShortCutMenu.resx">
+      <DependentUpon>ShortCutMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControls\Header.resx">
+      <DependentUpon>Header.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HRMS_DBDataSet.xsc">
+      <DependentUpon>HRMS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HRMS_DBDataSet.xsd" />
+    <None Include="HRMS_DBDataSet.xss">
+      <DependentUpon>HRMS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HRMS_DBDataSet1.xsd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_01.gif" />
+    <None Include="Resources\lmage_04.png" />
+    <None Include="Resources\lmage_05.png" />
+    <None Include="Resources\lmage_041.png" />
+    <None Include="Resources\lmage_051.png" />
+    <Content Include="Resources\Header_Background1.png" />
+    <Content Include="Resources\Header_Main1.png" />
+    <None Include="Resources\HR2-2.png" />
+    <Content Include="Resources\HRc.gif" />
+    <Content Include="Resources\HR2.png" />
+    <None Include="Resources\HRcc.gif" />
+    <Content Include="Resources\menu_09.gif" />
+    <Content Include="Resources\payroll_01.gif" />
+    <None Include="Resources\payroll_03.gif" />
+    <None Include="Resources\payroll_04.png" />
+    <Content Include="Resources\payroll_06.gif" />
+    <Content Include="Resources\payroll_07.gif" />
+    <Content Include="Resources\payroll_09.gif" />
+    <Content Include="Resources\tip.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\bin\Debug\Test.exe
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\bin\Debug\Test.pdb
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\Test.MainMenu.resources
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\Test.ShortCutMenu.resources
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\Test.exe
+C:\Users\Nuwan\Documents\Visual Studio 2010\Projects\HRMS\Test\obj\x86\Debug\Test.pdb

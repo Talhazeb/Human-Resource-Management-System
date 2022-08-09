@@ -1,0 +1,97 @@
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\bin\Debug\Test.exe.config
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\bin\Debug\Test.exe
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\bin\Debug\Test.pdb
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.Attendance_Details.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.DepartmentDetails.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.Employee_Details.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.JobHistoryDetails.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.Leave_Details.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.Login.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.MainMenu.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.Payment_Details.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.ShortCutMenu.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\PhoneBook.UserControls.Header.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.Users.resources
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.exe
+C:\Users\Nuwan\Desktop\64 image\HRMS\Test\obj\x86\Debug\Test.pdb
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\bin\Debug\Test.exe.config
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\bin\Debug\Test.exe
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\bin\Debug\Test.pdb
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Attendance_Details.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.DepartmentDetails.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Employee_Details.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Emp_RPT.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.JobHistoryDetails.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Leave_Details.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Login.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.MainMenu.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Payment_Details.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Pay_RPT.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.ShortCutMenu.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\PhoneBook.UserControls.Header.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.Users.resources
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\RdlCompile.cache
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.exe
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\obj\x86\Debug\Test.pdb
+C:\Users\Nuwan\Desktop\Full Project\New Full Project\HRMS\Test\bin\Debug\AnalogClockControl.dll
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\HRMS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Attendance_Details.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.DepartmentDetails.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Employee_Details.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Emp_RPT.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.JobHistoryDetails.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Leave_Details.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Login.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.MainMenu.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Payment_Details.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Pay_RPT.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.ShortCutMenu.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\PhoneBook.UserControls.Header.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.Users.resources
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\HRMS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.exe
+C:\Users\Administrator\Desktop\BHC full\HRMS\Test\obj\x86\Debug\Test.pdb
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\HRMS.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\HRMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Attendance_Details.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.DepartmentDetails.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Employee_Details.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Emp_RPT.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.JobHistoryDetails.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Leave_Details.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Login.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.MainMenu.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Payment_Details.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Pay_RPT.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.ShortCutMenu.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\PhoneBook.UserControls.Header.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.Users.resources
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\HRMS.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\HRMS.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Test.exe.config
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Test.exe
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Test.pdb
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\HRMS.csproj.CopyComplete
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.exe
+C:\Users\talha\OneDrive\Desktop\HRMS\Test\obj\x86\Debug\Test.pdb
